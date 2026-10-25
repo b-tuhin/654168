@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IMU dead reckoning + ESKF
 
 Runs the three Colab cells (`src/cell1.py`, `cell2.py`, `cell3.py`) as a normal Python project.
@@ -12,3 +13,6 @@ Runs the three Colab cells (`src/cell1.py`, `cell2.py`, `cell3.py`) as a normal 
     pip install -r requirements.txt
     python run.py --source device --test square
     python run.py --source euroc
+=======
+# 654168
+>>>>>>> c13e025b5519a7582f3b15b2b2062b291b42f626
