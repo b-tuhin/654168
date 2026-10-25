@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/_euroc_extracted/
+data/euroc_small/
+outputs/*
+!outputs/.gitkeep
+.ipynb_checkpoints/
